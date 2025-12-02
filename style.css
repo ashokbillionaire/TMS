@@ -46,7 +46,7 @@ body {
     margin-right: 1rem;
 }
 body {
-    background: url('assets/dashboard-bg.jpg') center center/cover no-repeat fixed;
+    background: url('dashboard-bg.jpg') center center/cover no-repeat fixed;
     min-height: 100vh;
 }
 #dashboard.page-section {
@@ -209,4 +209,5 @@ input[type=number] { -moz-appearance: textfield; }
     color: #fff;
     font-size: 1rem;
     margin-top: 2px;
+
 }
